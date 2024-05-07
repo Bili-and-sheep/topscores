@@ -28,6 +28,7 @@ class PartieType extends AbstractType
                 'choice_label' => 'pseudo',
             ])
 
+
         ;
     }
 
